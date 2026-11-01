@@ -1,0 +1,6 @@
+[submodule "projetos/abstractFactory"]
+	path = projetos/abstractFactory
+	url = https://github.com/herundina/abstractFactory.git
+[submodule "projetos/factoryMethod"]
+	path = projetos/factoryMethod
+	url = https://github.com/herundina/factoryMethod.git
